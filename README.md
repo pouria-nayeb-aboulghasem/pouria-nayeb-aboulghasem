@@ -92,3 +92,7 @@ Hi, my name is Pouria Nayeb Aboulghasem, I try day and night to become one of th
 - XBox series s
 
 ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)
+
+<p style="text-align: center;">
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pouria-nayeb-aboulghasem&show_icons=true&theme=transparent)
+</p>
