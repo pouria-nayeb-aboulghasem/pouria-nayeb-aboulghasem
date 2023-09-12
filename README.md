@@ -95,5 +95,5 @@ Hi, my name is Pouria Nayeb Aboulghasem, I try day and night to become one of th
 
 ## Statistics
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pouria-nayeb-aboulghasem&show_icons=true&theme=holi)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pouria-nayeb-aboulghasem&show_icons=true&theme=noctis_minimus)
 
