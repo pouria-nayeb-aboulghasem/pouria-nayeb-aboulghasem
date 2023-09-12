@@ -28,6 +28,8 @@ Hi, my name is Pouria Nayeb Aboulghasem, I try day and night to become one of th
 - Docker
 - Kubernetes
 
+![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
+
 ## SEO
 
 - OnPage
