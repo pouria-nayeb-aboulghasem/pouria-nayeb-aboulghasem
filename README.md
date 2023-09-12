@@ -4,6 +4,14 @@ Hi, my name is Pouria Nayeb Aboulghasem, I try day and night to become one of th
 
 ![pouria nayeb aboulghasem introduction banner](https://github.com/pouria-nayeb-aboulghasem/pouria-nayeb-aboulghasem/blob/main/github-banner.png)
 
+## IDE/Text editor
+
+- Visual studio code
+- Visual studio
+
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+
 ## Frontend skills
 
 - HTML
@@ -28,10 +36,11 @@ Hi, my name is Pouria Nayeb Aboulghasem, I try day and night to become one of th
 
 - C#
 - .Net core
-- SQL Server
+- SQL Server, MangoDB, SQLlite and ...
 - Linq
 - EF core
 
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -44,9 +53,12 @@ Hi, my name is Pouria Nayeb Aboulghasem, I try day and night to become one of th
 - Docker
 - Kubernetes
 
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
 ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ## SEO
 
