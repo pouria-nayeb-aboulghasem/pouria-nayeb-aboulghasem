@@ -4,7 +4,7 @@ Hi, my name is Pouria Nayeb Aboulghasem, I try day and night to become one of th
 
 ![pouria nayeb aboulghasem introduction banner](https://github.com/pouria-nayeb-aboulghasem/pouria-nayeb-aboulghasem/blob/main/github-banner.png)
 
-## IDE/Text editor
+## Text editor/IDE
 
 - Visual studio code
 - Visual studio
